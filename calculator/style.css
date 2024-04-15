@@ -1,0 +1,24 @@
+div{
+    display: inline-block;
+    margin-right: 50px;
+}
+.num2, .display{
+    margin-right: 0;
+}
+select{
+    padding: 0 20px;
+}
+button{
+    padding: 5px 20px;
+    font-size: 20px;
+    background-color: aqua;
+    border: 1px solid #f1f1f1;
+    border-radius: 10px;
+}
+button:active{
+    background-color: blueviolet;
+}
+#result{
+    padding: 10px 20px;
+    font-size: 20px;
+}
